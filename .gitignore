@@ -1,0 +1,29 @@
+# Android Studio
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local Android config
+local.properties
+
+# Python virtual environment
+backend/.venv/
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# Kotlin
+.kotlin/
