@@ -1,8 +1,10 @@
+![CI](https://github.com/lyyyzi/VehicleControlApp/actions/workflows/ci.yml/badge.svg)
+
 # VehicleControlApp
 
 A full-stack vehicle control system that simulates a mobile vehicle management application. The project demonstrates communication between an Android client, backend API service, vehicle state simulation, automated testing, and CI pipeline integration.
 
-![Vehicle App Screenshot](screenshots/app.png)
+<img src="screenshots/app.png" width="300">
 
 ## Overview
 
