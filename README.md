@@ -2,6 +2,8 @@
 
 A full-stack vehicle control system that simulates a mobile vehicle management application. The project demonstrates communication between an Android client, backend API service, vehicle state simulation, automated testing, and CI pipeline integration.
 
+![Vehicle App Screenshot](screenshots/app.png)
+
 ## Overview
 
 VehicleControlApp simulates a real-world vehicle control workflow:
