@@ -6,17 +6,27 @@ A full-stack vehicle control system that simulates a mobile vehicle management a
 
 ## Demo
 
-### Normal Vehicle Control
+<table>
+<tr>
+<td align="center"><b>Normal Vehicle Control</b></td>
+<td align="center"><b>Offline Handling</b></td>
+<td align="center"><b>Timeout Recovery</b></td>
+</tr>
 
-<img src="screenshots/normal.gif" width="350">
+<tr>
+<td>
+<img src="screenshots/normal.gif" width="220">
+</td>
 
-### Offline Handling
+<td>
+<img src="screenshots/offline.gif" width="220">
+</td>
 
-<img src="screenshots/offline.gif" width="350">
-
-### Timeout Recovery
-
-<img src="screenshots/timeout.gif" width="350">
+<td>
+<img src="screenshots/timeout.gif" width="220">
+</td>
+</tr>
+</table>
 
 ## Overview
 
