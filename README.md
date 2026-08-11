@@ -4,7 +4,19 @@
 
 A full-stack vehicle control system that simulates a mobile vehicle management application. The project demonstrates communication between an Android client, backend API service, vehicle state simulation, automated testing, and CI pipeline integration.
 
-<img src="screenshots/app.png" width="300">
+## Demo
+
+### Normal Vehicle Control
+
+<img src="screenshots/normal.gif" width="350">
+
+### Offline Handling
+
+<img src="screenshots/offline.gif" width="350">
+
+### Timeout Recovery
+
+<img src="screenshots/timeout.gif" width="350">
 
 ## Overview
 
